@@ -1,0 +1,13 @@
+body{
+	background-color:red;
+	font-family:Arial;
+	font-size:15px;
+	line-height:1.5;
+}
+
+.mainElements{
+	width:80%;/*set the width magnitude**/
+	margin:auto;/*make all elements float in center **/
+	overflow:hidden;
+	background-color:White; 
+}
